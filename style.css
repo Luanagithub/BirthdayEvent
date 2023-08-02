@@ -82,7 +82,7 @@
 
     .countdownUl{
         font-size: 17px;
-        width: fit-content;
+        max-width:350px;
         border-radius: 5px;
         padding: 10px;
         height: 50px;
